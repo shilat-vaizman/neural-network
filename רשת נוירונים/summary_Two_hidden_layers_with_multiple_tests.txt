@@ -1,0 +1,333 @@
+Training and Testing Summary
+===========================
+
+Training with 5 groups
+-------------------------------
+Iteration: 1
+Training Success Rate: 49.780361706279976%
+
+Iteration: 2
+Training Success Rate: 51.598403849364516%
+
+Iteration: 3
+Training Success Rate: 53.05102490257949%
+
+Iteration: 4
+Training Success Rate: 54.546347530848706%
+
+Iteration: 5
+Training Success Rate: 56.24792752200858%
+
+Iteration: 6
+Training Success Rate: 58.14350821840115%
+
+Iteration: 7
+Training Success Rate: 60.158458698498215%
+
+Iteration: 8
+Training Success Rate: 62.2840790011516%
+
+Iteration: 9
+Training Success Rate: 64.5213731081334%
+
+Iteration: 10
+Training Success Rate: 66.83251356345743%
+
+Iteration: 11
+Training Success Rate: 69.1607600792858%
+
+Iteration: 12
+Training Success Rate: 71.43517563115498%
+
+Iteration: 13
+Training Success Rate: 73.5833425146495%
+
+Iteration: 14
+Training Success Rate: 75.55458253333606%
+
+Iteration: 15
+Training Success Rate: 77.32853173388578%
+
+Iteration: 16
+Training Success Rate: 78.90833115356158%
+
+Iteration: 17
+Training Success Rate: 80.30904219166331%
+
+Iteration: 18
+Training Success Rate: 81.54992114105941%
+
+Iteration: 19
+Training Success Rate: 82.65051201261593%
+
+Iteration: 20
+Training Success Rate: 83.62901521353064%
+
+Iteration: 21
+Training Success Rate: 84.50169265278117%
+
+Iteration: 22
+Training Success Rate: 85.28275487347712%
+
+Iteration: 23
+Training Success Rate: 85.98446169005932%
+
+Iteration: 24
+Training Success Rate: 86.61731279337079%
+
+Iteration: 25
+Training Success Rate: 87.19026618872829%
+
+Iteration: 26
+Training Success Rate: 87.7109535645571%
+
+Iteration: 27
+Training Success Rate: 88.18587805546301%
+
+Iteration: 28
+Training Success Rate: 88.62058874224711%
+
+Iteration: 29
+Training Success Rate: 89.01983095304902%
+
+Iteration: 30
+Training Success Rate: 89.38767378873116%
+
+Iteration: 31
+Training Success Rate: 89.72761732120472%
+
+Iteration: 32
+Training Success Rate: 90.04268221057866%
+
+Reached 90% success rate at iteration 32
+
+Testing with new test set
+-------------------------------
+Test Success Rate for new test set: 52.467124498710916%
+
+Training with 10 groups
+-------------------------------
+Iteration: 1
+Training Success Rate: 48.82573128109872%
+
+Iteration: 2
+Training Success Rate: 51.33118569409484%
+
+Iteration: 3
+Training Success Rate: 51.64584268065029%
+
+Iteration: 4
+Training Success Rate: 52.350274195117294%
+
+Iteration: 5
+Training Success Rate: 52.92057234843005%
+
+Iteration: 6
+Training Success Rate: 53.547692588175664%
+
+Iteration: 7
+Training Success Rate: 54.25637340509345%
+
+Iteration: 8
+Training Success Rate: 55.12033175465325%
+
+Iteration: 9
+Training Success Rate: 56.19788543680871%
+
+Iteration: 10
+Training Success Rate: 57.55052585412076%
+
+Iteration: 11
+Training Success Rate: 59.224083369437366%
+
+Iteration: 12
+Training Success Rate: 61.264543226156974%
+
+Iteration: 13
+Training Success Rate: 63.69708772162084%
+
+Iteration: 14
+Training Success Rate: 66.51227911313741%
+
+Iteration: 15
+Training Success Rate: 69.57873430086885%
+
+Iteration: 16
+Training Success Rate: 72.74815912227805%
+
+Iteration: 17
+Training Success Rate: 75.6420315176421%
+
+Iteration: 18
+Training Success Rate: 78.53434316435957%
+
+Iteration: 19
+Training Success Rate: 79.95771920009284%
+
+Iteration: 20
+Training Success Rate: 81.80733405014035%
+
+Iteration: 21
+Training Success Rate: 72.55270107870129%
+
+Iteration: 22
+Training Success Rate: 60.753795038665814%
+
+Iteration: 23
+Training Success Rate: 63.26813881583032%
+
+Iteration: 24
+Training Success Rate: 85.02687557227485%
+
+Iteration: 25
+Training Success Rate: 86.16781347634941%
+
+Iteration: 26
+Training Success Rate: 87.98907676508763%
+
+Iteration: 27
+Training Success Rate: 88.70304682704234%
+
+Iteration: 28
+Training Success Rate: 89.57417131774376%
+
+Iteration: 29
+Training Success Rate: 90.1463645233729%
+
+Reached 90% success rate at iteration 29
+
+Testing with new test set
+-------------------------------
+Test Success Rate for new test set: 62.43768540467841%
+
+Training with 20 groups
+-------------------------------
+Iteration: 1
+Training Success Rate: 48.73120845703534%
+
+Iteration: 2
+Training Success Rate: 55.89096047650818%
+
+Iteration: 3
+Training Success Rate: 50.4536958017807%
+
+Iteration: 4
+Training Success Rate: 54.001781019219585%
+
+Iteration: 5
+Training Success Rate: 52.248247636139865%
+
+Iteration: 6
+Training Success Rate: 54.27330427924153%
+
+Iteration: 7
+Training Success Rate: 53.491325138132304%
+
+Iteration: 8
+Training Success Rate: 55.70824425719172%
+
+Iteration: 9
+Training Success Rate: 54.13888682751232%
+
+Iteration: 10
+Training Success Rate: 58.77357549631165%
+
+Iteration: 11
+Training Success Rate: 50.130785526099196%
+
+Iteration: 12
+Training Success Rate: 60.054023663553444%
+
+Iteration: 13
+Training Success Rate: 52.513354092270134%
+
+Iteration: 14
+Training Success Rate: 57.139286380979584%
+
+Iteration: 15
+Training Success Rate: 61.717312700659264%
+
+Iteration: 16
+Training Success Rate: 58.01739570447653%
+
+Iteration: 17
+Training Success Rate: 60.130965462607556%
+
+Iteration: 18
+Training Success Rate: 63.12241412817722%
+
+Iteration: 19
+Training Success Rate: 65.42871852059318%
+
+Iteration: 20
+Training Success Rate: 61.484856608701%
+
+Iteration: 21
+Training Success Rate: 63.290775959697534%
+
+Iteration: 22
+Training Success Rate: 59.3871396848358%
+
+Iteration: 23
+Training Success Rate: 58.624750852825905%
+
+Iteration: 24
+Training Success Rate: 56.429142845795376%
+
+Iteration: 25
+Training Success Rate: 54.68211248675664%
+
+Iteration: 26
+Training Success Rate: 59.86104588847214%
+
+Iteration: 27
+Training Success Rate: 67.74012254952899%
+
+Iteration: 28
+Training Success Rate: 73.9709110148218%
+
+Iteration: 29
+Training Success Rate: 45.8646451922131%
+
+Iteration: 30
+Training Success Rate: 63.89917086779347%
+
+Iteration: 31
+Training Success Rate: 58.43243700964684%
+
+Iteration: 32
+Training Success Rate: 72.9603956011668%
+
+Iteration: 33
+Training Success Rate: 75.37520618435192%
+
+Iteration: 34
+Training Success Rate: 72.56507225666154%
+
+Iteration: 35
+Training Success Rate: 44.48289468466179%
+
+Iteration: 36
+Training Success Rate: 75.42996090597268%
+
+Iteration: 37
+Training Success Rate: 81.97592219819869%
+
+Iteration: 38
+Training Success Rate: 86.00314011962308%
+
+Iteration: 39
+Training Success Rate: 87.76206004990328%
+
+Iteration: 40
+Training Success Rate: 89.54394048360255%
+
+Iteration: 41
+Training Success Rate: 90.40851589468772%
+
+Reached 90% success rate at iteration 41
+
+Testing with new test set
+-------------------------------
+Test Success Rate for new test set: 58.09376583124861%
+
